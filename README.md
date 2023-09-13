@@ -1,5 +1,7 @@
-# Albasri-Fatema
- 
-Hello, my name is Fatema Albasri! Welcome to my Github page.
+## Hi, I'm Fatema 👋🏾 👩🏾‍💻
 
-I'm a <b> data literate </b>biologist.
+I'm a biologist who is passionate about leveraging data to drive better decisions. Some technologies I enjoy working with include Excel, SQL, Python, Tableau, and PowerBi. 
+
+
+# Find me around the web 🌎:  
+- Sharing updates on <a href="www.linkedin.com/in/fatemaalbasri">LinkedIn</a> 💼
